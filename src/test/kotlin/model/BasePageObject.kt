@@ -1,3 +1,4 @@
+package model
 
 open class BasePageObject {
     init {
